@@ -8,6 +8,8 @@ public class TC_001 {
 		System.out.println(a+b);
 		
 		System.out.println("2nd commit");
+		System.out.println(a+b);
+		System.out.println(b);
 	}
 
 }
